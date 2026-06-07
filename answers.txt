@@ -1,3 +1,7 @@
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science and how I can apply the concepts learned in real world scenarios such as internships and other classes/work.
+
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines branches into a new merge commit. On the other hand, rebasing involves moving commits to a new base commit.
